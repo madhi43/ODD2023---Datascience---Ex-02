@@ -12,3 +12,16 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 (i) Using IQR detect weight outliers and print them
 
 (ii) Using IQR, detect height outliers and print them
+
+CODE and OUTPUT:
+```
+import pandas as pd
+import seaborn as sns
+from scipy import stats
+import numpy as np
+```
+```
+from google.colab import files
+uploaded = files.upload()
+```
+![image](https://github.com/madhi43/ODD2023---Datascience---Ex-02/assets/103943383/9ce6fcf4-506e-413b-9134-88436850657d)
