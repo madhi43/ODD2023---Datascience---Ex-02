@@ -228,5 +228,5 @@ df1
 
 
 # RESULT 
- Thus the  price_per_sqft column is examined in the given bhp.csv which contains property prices in the city of banglore, India .
+ Thus the  price_per_sqft column is examined in the given bhp.csv which contains property prices in the city of banglore, India and the outliers are removed.
 
