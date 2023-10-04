@@ -2,7 +2,7 @@
 # AIM
 to examine price_per_sqft column in given bhp.csv which contains property prices in the city of banglore, India. 
 
- ALGORITHM
+# ALGORITHM
 (1) Remove outliers using IQR
 
 (2) After removing outliers in step 1, you get a new dataframe.
