@@ -1,6 +1,8 @@
 # Ex02-Outlier
-You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
+# AIM
+to examine price_per_sqft column in given bhp.csv which contains property prices in the city of banglore, India. 
 
+ ALGORITHM
 (1) Remove outliers using IQR
 
 (2) After removing outliers in step 1, you get a new dataframe.
@@ -225,4 +227,6 @@ df1
 ![image](https://github.com/madhi43/ODD2023---Datascience---Ex-02/assets/103943383/2a8a4804-ae04-465f-8985-1a25cf5503ab)
 
 
+# RESULT 
+ Thus the  price_per_sqft column is examined in the given bhp.csv which contains property prices in the city of banglore, India .
 
